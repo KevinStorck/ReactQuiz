@@ -22,7 +22,7 @@ export const Quizapp = () => {
       ) : (
         <>
           <h1>
-            Ett quizzz för att personer med rizzz<span>(emili)</span>
+            Ett quizzz för personer med rizzz<span>(emili)</span>
           </h1>
           <button onClick={() => setFrontPage(false)}>Starta Quizzettt</button>
         </>
